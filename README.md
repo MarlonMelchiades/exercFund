@@ -1,0 +1,2 @@
+# exercFund
+javascript foundation exercises
