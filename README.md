@@ -1,7 +1,7 @@
-# exercFund
+# Exercícios de Fundamento
 
-PT -> Exercícios básicos de fundamentação javascript
+PT -> _Exercícios básicos de fundamentação javascript_
 
-EN -> Javascript foundation exercises
+EN -> _Javascript foundation exercises_
 
-DE -> Grundlegende Javascript-Übungen
+DE -> _Grundlegende Javascript-Übungen_
